@@ -9,17 +9,17 @@ N: NodeJS (Backend)
 
 Backend:
 
-# npm init -y
+## npm init -y
 
-# npm install express / npm i express
+## npm install express / npm i express
 
-# npm -g nodemon
+## npm -g nodemon
 
-# npm i dotenv
+## npm i dotenv
 
-# npm i mongoose
+## npm i mongoose
 
-# Run: npm run dev
+## Run: npm run dev
 
 
 
